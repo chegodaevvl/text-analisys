@@ -1,5 +1,5 @@
 # Letters frequencies count
-Python tool (test task), which is allowed to count letters frequencies in a given text file.
+Python tool, which is allowed to count letters frequencies in a given text file.
 This tool can analyse text written in any languages, which is support UTF-8 encoding.
 
 ## Prerequisites
